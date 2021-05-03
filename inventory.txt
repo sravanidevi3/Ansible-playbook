@@ -1,0 +1,2 @@
+host1 ansible_host=172.31.17.109 ansible_ssh_pass=Sravani@143
+host2 ansible_host=172.31.22.16  ansible_ssh_pass=Sravani@143
