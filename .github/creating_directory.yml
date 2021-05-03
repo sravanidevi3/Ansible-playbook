@@ -1,0 +1,9 @@
+---
+  -
+    name: to create a directory
+    hosts: host2
+    tasks:
+      - name: Creating a directory
+        file:
+          path: /home/ansadmin/Sravani1234
+          state: directory
