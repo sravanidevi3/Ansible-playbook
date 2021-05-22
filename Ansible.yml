@@ -1,10 +1,10 @@
 
-  - name: Creat a directory
+  - name: Create a directory
     hosts: host1
     remote_user: root
     tasks:
     
-        - name : Create directory
-          path : /var/lib/jenkins/workspace/Sravani123
+        - name : Directory created
+          path : /home/osboxes/Sravani123
           state : directory
  
