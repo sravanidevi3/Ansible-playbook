@@ -1,0 +1,11 @@
+---
+  -
+    name: Creat a directory
+    hosts: host1
+    remote_user: root
+    tasks:
+    
+        - name: Create directory
+          path: /home/osboxes/Sravani123
+          state: directory
+ 
