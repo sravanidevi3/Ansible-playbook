@@ -5,6 +5,7 @@
     tasks:
     
         - name : Sravani created
-          path : /home/osboxes/Sravani123
-          state : directory
+          file:
+             path : /home/osboxes/Sravani123
+             state : directory
  
