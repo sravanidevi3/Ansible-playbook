@@ -4,8 +4,8 @@
     remote_user: root
     tasks:
     
-        - name : Sravani created
+        - name: Sravani created
           file:
-             path : /home/osboxes/Sravani123
-             state : directory
+             path: /home/osboxes/Sravani123
+             state: directory
  
