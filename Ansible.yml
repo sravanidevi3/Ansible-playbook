@@ -5,7 +5,7 @@
     remote_user: root
     tasks:
     
-        - name: Create directory
-          path: /home/osboxes/Sravani123
-          state: directory
+        - name : Create directory
+          path : /home/osboxes/Sravani123
+          state : directory
  
