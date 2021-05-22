@@ -5,6 +5,6 @@
     tasks:
     
         - name : Create directory
-          path : /home/osboxes/Sravani123
+          path : /var/lib/jenkins/workspace/Sravani123
           state : directory
  
