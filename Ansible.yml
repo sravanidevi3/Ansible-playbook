@@ -1,6 +1,5 @@
 ---
-  -
-    name: Creat a directory
+  - name: Creat a directory
     hosts: host1
     remote_user: root
     tasks:
