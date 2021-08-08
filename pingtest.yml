@@ -1,6 +1,6 @@
 - name: ping test
   hosts: host1
-  remote_user: root
+  remote_user: ansadmin
   tasks:
   
     - name : ping test
